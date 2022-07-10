@@ -64,7 +64,7 @@ function postLive(post) {
     const newPost = document.createElement("div");
     newPost.innerHTML = `
     <div class="post">
-    <p class="pAddress"><i class="far fa-file-alt"></i><a href="https://locker.safu-lock.com/view/?lockid=${post[3]}" target = "_blank">${post[0]}</a></p>
+    <p class="pAddress"><i class="far fa-file-alt"></i><a href="https://iustinionita.github.io/app-safu-lock/view/?lockid=${post[3]}" target = "_blank">${post[0]}</a></p>
     <p class="pAmount">${post[2].toFixed(2)} <span class="pName">${post[1]}</span> </p>
     </div>
     `;
