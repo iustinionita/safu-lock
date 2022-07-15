@@ -1,6 +1,6 @@
 ## Safu Lock - Presentation Website
 
-This is a presentation website for a Crypto project that is built on Binance Smart Chain. The project is live on Testnet and it is fully working, however it is not ment to be used for production.
+This is a presentation website for a Crypto project that is built on Binance Smart Chain. The project is live on Testnet and it is fully working, however it is not meant to be used for production.
 
 ### Used technologies
 
